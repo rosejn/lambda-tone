@@ -1,0 +1,8 @@
+foo
+pom.xml
+*jar
+lib
+classes
+native
+\#*#
+\.\#*
