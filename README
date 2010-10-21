@@ -1,17 +1,17 @@
 # lambda-tone
 
-FIXME: write description
+Overtone jam sessions.
 
-## Usage
+- Jeff Rose and Sam Aaron
 
-FIXME: write
 
-## Installation
+# Setup
 
-FIXME: write
+RXTX jar and natives
+monome-serial
+overtone  
+overtone-contrib  
+overtone-gui  
+polynome  
+space-navigator
 
-## License
-
-Copyright (C) 2010 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
